@@ -30,7 +30,6 @@ input[type=text]:focus {
     border: none;
     outline: none;
 }
-
 button {
     width: 100px;
     height: 28px;
